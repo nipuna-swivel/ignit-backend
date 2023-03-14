@@ -1,0 +1,19 @@
+##How to clone and run the back-end application
+=================================================
+set the folder that will be used.
+set the path that will be used in terminal.
+
+*enter following command and clone the front-end application.
+git clone https://github.com/nipuna-swivel/ignit-backend.git
+
+*install node modules 
+npm install
+
+
+##then charge directly in to the back-end application
+
+cd employee-api
+
+*run the application 
+===============================
+nest start
